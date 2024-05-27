@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+  }
+body{
+  font-size: 16px;
+}
+h1 {
+    margin-bottom: 15px;
+}
+/* Simple Responsive Framework. */
+  .section{
+    border: 1px solid grey;
+    padding: 15px;
+    position: relative;
+    background-color: #e7e7e7;
+    min-height: 1000px;
+    margin-bottom: 15px;
+  }
+  .sec-title{
+    text-align: center;
+    padding: 8px;
+    margin: 0;
+  }
+
+  /********** Large devices only **********/
+  
+  /********** Medium devices only **********/
